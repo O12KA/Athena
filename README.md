@@ -11,7 +11,7 @@ Athena is a powerful steganography tool that allows users to securely hide and e
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YoussefGaber/Athena.git
+   git clone https://github.com/O12KA/Athena
    cd Athena
    ```
 2. Install dependencies:
